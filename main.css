@@ -1,0 +1,33 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.item {
+    width: auto;
+    float: left;
+    list-style: none;
+}
+
+.flower-name {
+    text-align: center;
+}
+
+img {
+    width: 280px;
+    height: 100%;
+    margin: 20px 30px 0 0;
+}
+
+h2 {
+    font-size: 10px;
+}
+
+.search-box {
+    margin-left: 20px;
+}
+
+h1 {
+    margin-left: 20px;
+}
